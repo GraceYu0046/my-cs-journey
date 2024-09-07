@@ -2,15 +2,23 @@
 ## Introduction
 Hi! My name is Grace and I am a CS student. 
 
-I will be documenting my learning process in CS here. 
+I am starting this blog to document my CS journey. 
 
 *Let's start with an introduction of myself!*
 
-I am a beginner in computer science, and I am really excited to learn new things this year, and this blog can let me remember how much I have accomplished throughout the year! 
+I've just started learning DP Computer Science, and I am really excited to try new things this year. This blog can remind me of how much I have achieved throughout the year! 
 
-Here is an image that I really like. This is a blurry picture of Pinkie Pie, a character from the cartoon My Little Pony. 
+Here is an image that I really like. This is a slightly blurry picture of Pinkie Pie, a character from the cartoon My Little Pony. I decided to put this image here because Pinkie Pie is one of my favorite characters. She is always *optimistic* and *eager* to try everything. A goal that I want to set for my CS journey is to **approach every task _enthusiastically_, no matter how challenging that task may be.**
 
-<img width="300" alt="this is an example image" src="https://github.com/user-attachments/assets/eec73bb8-3e48-4317-ac79-e19addb37a1b">
+<img width="300" alt="Pinkie Pie image" src="https://github.com/user-attachments/assets/eec73bb8-3e48-4317-ac79-e19addb37a1b">
+
+## Elaborating on my goals
+
+Of course, a big part of my goals is improving on my programming skills and learning more about computing systems. However, I believe there is more to achieve in CS than simply knowing how to code. 
+
+For one, I want to go in depth on computational thinking, thouroughly understanding how computers approach and solve a problem. This will allow me to adopt the computer's way of thinking when giving instructions to a computer. Moreoever, I want to understand how to approach complex real-life problems systematically. 
+
+Also, aiming for success in CS allows me to practice resilience, persistence, and self-discipline, all important core values that will continue to help me beyond my studies in this course. 
 
 ## My first project - setting up my blog
 
