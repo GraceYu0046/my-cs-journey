@@ -14,11 +14,13 @@ Here is an image that I really like. This is a slightly blurry picture of Pinkie
 
 ## Elaborating on my goals
 
-Of course, a big part of my goals is improving on my programming skills and learning more about computing systems. However, I believe there is more to achieve in CS than simply knowing how to code. 
+Of course, a big part of my goals is **improving on my programming skills and learning more about computing systems**. However, I believe there is more to achieve in CS than simply knowing how to code. 
 
-For one, I want to go in depth on computational thinking, thouroughly understanding how computers approach and solve a problem. This will allow me to adopt the computer's way of thinking when giving instructions to a computer. Moreoever, I want to understand how to approach complex real-life problems systematically. 
+For one, I want to go in depth on **computational thinking**, thouroughly understanding how computers approach and solve a problem. This will allow me to adopt the computer's way of thinking when giving instructions to a computer. **Moreover, I want to understand how to approach complex real-life problems _systematically_.**
 
-Also, aiming for success in CS allows me to practice resilience, persistence, and self-discipline, all important core values that will continue to help me beyond my studies in this course. 
+Also, aiming for success in CS allows me to practice **_resilience, persistence, and self-discipline_**, all important core values that will continue to *help me beyond my studies in this course*. 
+
+For more information about these core values, please check out a [poster](https://keystoneacademy-my.sharepoint.com/:b:/g/personal/huici_yu_student_keystoneacademy_cn/EVlkeYgzTOJLpiRdlpCrfx8BMNq98o2C4sxRRWpmhILenw?e=kRtp7m) that we created. 
 
 ## My first project - setting up my blog
 
